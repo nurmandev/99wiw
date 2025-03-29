@@ -56,7 +56,7 @@ export const Tags: TagType[] = [
 
 export const ROUTER = {
   Home: '/',
-  REFERRAL_CODE: (code: string) => `https://bonenza.com/?referral=${code}`,
+  REFERRAL_CODE: (code: string) => `https://99wiwi.com/?referral=${code}`,
   Master: '/tournament',
   PageNotAllowed: '/403',
   PageNotFound: '/404',
@@ -615,7 +615,7 @@ export const SWAP_MIN = 5;
 export const PROJECT_NAME = process.env.project;
 export const PROJECT_ID = process.env.projectId;
 
-export const DEFAULT_AVATAR = 'https://bonenza.com/img/avatar-1.png';
+export const DEFAULT_AVATAR = 'https://99wiwi.com/img/avatar-1.png';
 
 export const CRYPTO_DATA: DepositAddress[] = [
   {
