@@ -56,6 +56,15 @@ const otherGames = [
   { name: "Roll", img: IMAGES.roll, color: "bg-yellow-500 border-yellow-500" },
   { name: "Dice Duel", img: IMAGES.dice, color: "bg-primary border-primary" },
   { name: "Bacarat", img: IMAGES.bacarat, color: "bg-primary border-primary" },
+  { name: "BlackjackGame", img: IMAGES.blackjack, color: "bg-primary border-primary" },
+  { name: "GoalGame", img: IMAGES.Glowcard, color: "bg-primary border-primary" },
+  { name: "HiloGame", img: IMAGES.hero1, color: "bg-primary border-primary" },
+  { name: "HiloMGame", img: IMAGES.hero2, color: "bg-primary border-primary" },
+  { name: "MineGame", img: IMAGES.hero3, color: "bg-primary border-primary" },
+  { name: "RouletteGame", img: IMAGES.rocket, color: "bg-primary border-primary" },
+  { name: "SlideGame", img: IMAGES.case_battle, color: "bg-primary border-primary" },
+  { name: "VideoPoker", img: IMAGES.roll, color: "bg-primary border-primary" },
+
 ];
 
 const GamingUI = () => {
