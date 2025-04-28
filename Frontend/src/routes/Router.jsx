@@ -274,7 +274,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/SlideGame",
-    element: <SlideGame />,
+  element: <SlideGame />,
   },
   {
     path: "/VideoPoker",
@@ -282,7 +282,7 @@ const router = createBrowserRouter([
   },
 
   {
-    path: "/dice_game",
+    path: "/Dice Duel",
     element: <Dice />,
   },
   {
